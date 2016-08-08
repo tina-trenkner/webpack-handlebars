@@ -1,5 +1,5 @@
 {
-  "name": "webpack-handlebars",
+  "name": "boilerplate-webpack-handlebars",
   "version": "0.1.0",
   "description": "Client-side template rending with webpack and Handlebars",
   "main": "index.js",
